@@ -1,2 +1,3 @@
-sxjscvjcjv
-ccjhjdc
+function msg(){  
+ alert("Hello Javatpoint");
+}
